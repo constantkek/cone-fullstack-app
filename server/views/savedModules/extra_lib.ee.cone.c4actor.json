@@ -1,0 +1,57 @@
+{
+  "viewName": "View of extra_lib.ee.cone.c4actor",
+  "nodeDataArray": [
+    {
+      "key": "extra_lib.ee.cone.c4actor",
+      "color": "#03A9F4",
+      "loc": "0 0"
+    },
+    {
+      "key": "base_lib.ee.cone.c4actor",
+      "color": "#03A9F4",
+      "loc": "300.0 0.0"
+    },
+    {
+      "key": "main.ee.cone.base.components",
+      "color": "#03A9F4",
+      "loc": "300.0 200.0"
+    },
+    {
+      "key": "main.ee.cone.base.util",
+      "color": "#03A9F4",
+      "loc": "-300.0 2.4492935982947064E-14"
+    },
+    {
+      "key": "extra_lib.ee.cone.c4gate",
+      "color": "#03A9F4",
+      "loc": "-300.0 -200.0"
+    },
+    {
+      "key": "extra",
+      "color": "#EF5350",
+      "loc": "-50 131"
+    }
+  ],
+  "linkDataArray": [
+    {
+      "from": "base_lib.ee.cone.c4actor",
+      "to": "extra_lib.ee.cone.c4actor"
+    },
+    {
+      "from": "extra_lib.ee.cone.c4actor",
+      "to": "main.ee.cone.base.components"
+    },
+    {
+      "from": "extra_lib.ee.cone.c4actor",
+      "to": "main.ee.cone.base.util"
+    },
+    {
+      "from": "extra_lib.ee.cone.c4actor",
+      "to": "extra_lib.ee.cone.c4gate"
+    },
+    {
+      "from": "extra",
+      "to": "extra_lib.ee.cone.c4actor"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+META-INF
+target
+build
+.git
+.idea
+*.bak
+out

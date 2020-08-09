@@ -1,0 +1,52 @@
+{
+  "viewName": "test1",
+  "nodeDataArray": [
+    {
+      "key": "Костя",
+      "color": "grey",
+      "loc": "-70 50"
+    },
+    {
+      "key": "Alpha",
+      "color": "lightblue",
+      "loc": "297 -5"
+    },
+    {
+      "key": "Beta",
+      "color": "orange",
+      "loc": "375 -159"
+    },
+    {
+      "key": "Gamma",
+      "color": "lightgreen",
+      "loc": "29 106"
+    },
+    {
+      "key": "Delta",
+      "color": "pink",
+      "loc": "-17 -74"
+    }
+  ],
+  "linkDataArray": [
+    {
+      "from": "Alpha",
+      "to": "Beta"
+    },
+    {
+      "from": "Gamma",
+      "to": "Delta"
+    },
+    {
+      "from": "Alpha",
+      "to": "Gamma"
+    },
+    {
+      "from": "Костя",
+      "to": "Gamma"
+    },
+    {
+      "from": "Костя",
+      "to": "Alpha"
+    }
+  ]
+}

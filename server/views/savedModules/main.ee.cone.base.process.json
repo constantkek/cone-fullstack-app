@@ -1,0 +1,39 @@
+{
+  "viewName": "View of main.ee.cone.base.process",
+  "nodeDataArray": [
+    {
+      "key": "main.ee.cone.base.process",
+      "color": "#03A9F4",
+      "loc": "34 -89"
+    },
+    {
+      "key": "base_lib.ee.cone.c4di",
+      "color": "#03A9F4",
+      "loc": "356 -173"
+    },
+    {
+      "key": "main.ee.cone.core.c4db.connectionpool",
+      "color": "#03A9F4",
+      "loc": "-275 -180.79491924311225"
+    },
+    {
+      "key": "main.ee.cone.base.util",
+      "color": "#03A9F4",
+      "loc": "101 -256.2050807568877"
+    }
+  ],
+  "linkDataArray": [
+    {
+      "from": "base_lib.ee.cone.c4di",
+      "to": "main.ee.cone.base.process"
+    },
+    {
+      "from": "main.ee.cone.base.process",
+      "to": "main.ee.cone.core.c4db.connectionpool"
+    },
+    {
+      "from": "main.ee.cone.base.process",
+      "to": "main.ee.cone.base.util"
+    }
+  ]
+}

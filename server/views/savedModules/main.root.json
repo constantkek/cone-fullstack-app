@@ -1,0 +1,174 @@
+{
+  "viewName": "View of main.root",
+  "nodeDataArray": [
+    {
+      "key": "main.root",
+      "color": "#03A9F4",
+      "loc": "0 0"
+    },
+    {
+      "key": "main.ee.cone.proj.tos.c4weighing",
+      "color": "#03A9F4",
+      "loc": "300.0 0.0"
+    },
+    {
+      "key": "main.ee.cone.proj.c4authsign",
+      "color": "#03A9F4",
+      "loc": "300.0 68.40402866513374"
+    },
+    {
+      "key": "main.ee.cone.proj.hub.c4al_hub",
+      "color": "#03A9F4",
+      "loc": "300.0 128.55752193730785"
+    },
+    {
+      "key": "main.ee.cone.proj.gos.tk",
+      "color": "#03A9F4",
+      "loc": "300.0 173.20508075688772"
+    },
+    {
+      "key": "main.ee.cone.proj.hub.c4al_exchange",
+      "color": "#03A9F4",
+      "loc": "300.0 196.9615506024416"
+    },
+    {
+      "key": "main.ee.cone.proj.tos.c4bwsroro",
+      "color": "#03A9F4",
+      "loc": "-300.0 196.9615506024416"
+    },
+    {
+      "key": "main.ee.cone.proj.wms.c4lvd.lvd",
+      "color": "#03A9F4",
+      "loc": "-300.0 173.20508075688775"
+    },
+    {
+      "key": "main.ee.cone.proj.tos.c4alc",
+      "color": "#03A9F4",
+      "loc": "-300.0 128.55752193730788"
+    },
+    {
+      "key": "main.ee.cone.proj.edi.tkx2_jms",
+      "color": "#03A9F4",
+      "loc": "-300.0 68.40402866513378"
+    },
+    {
+      "key": "main.ee.cone.proj.c4edirouter",
+      "color": "#03A9F4",
+      "loc": "-300.0 2.4492935982947064E-14"
+    },
+    {
+      "key": "main.ee.cone.proj.edi.cto",
+      "color": "#03A9F4",
+      "loc": "-300.0 -68.40402866513374"
+    },
+    {
+      "key": "main.ee.cone.proj.tos.c4weighingoraexchange",
+      "color": "#03A9F4",
+      "loc": "-300.0 -128.55752193730785"
+    },
+    {
+      "key": "main.ee.cone.proj.c4jasper",
+      "color": "#03A9F4",
+      "loc": "-300.0 -173.20508075688767"
+    },
+    {
+      "key": "main.ee.cone.proj.mis",
+      "color": "#03A9F4",
+      "loc": "-86 -239.9615506024416"
+    },
+    {
+      "key": "main.ee.cone.proj.cone.timemanagement",
+      "color": "#03A9F4",
+      "loc": "300.0 -196.96155060244163"
+    },
+    {
+      "key": "main.ee.cone.proj.core.elastic.logwriter",
+      "color": "#03A9F4",
+      "loc": "300.0 -173.20508075688772"
+    },
+    {
+      "key": "main.ee.cone.proj.edi.c2jms",
+      "color": "#03A9F4",
+      "loc": "300.0 -128.5575219373079"
+    },
+    {
+      "key": "root-main",
+      "color": "#FFCA28",
+      "loc": "300.0 -68.4040286651339"
+    }
+  ],
+  "linkDataArray": [
+    {
+      "from": "main.ee.cone.proj.tos.c4weighing",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.c4authsign",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.hub.c4al_hub",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.gos.tk",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.hub.c4al_exchange",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.tos.c4bwsroro",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.wms.c4lvd.lvd",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.tos.c4alc",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.edi.tkx2_jms",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.c4edirouter",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.edi.cto",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.tos.c4weighingoraexchange",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.c4jasper",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.mis",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.cone.timemanagement",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.core.elastic.logwriter",
+      "to": "main.root"
+    },
+    {
+      "from": "main.ee.cone.proj.edi.c2jms",
+      "to": "main.root"
+    },
+    {
+      "from": "main.root",
+      "to": "root-main"
+    }
+  ]
+}

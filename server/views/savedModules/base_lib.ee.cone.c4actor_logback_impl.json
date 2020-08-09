@@ -1,0 +1,39 @@
+{
+  "viewName": "View of base_lib.ee.cone.c4actor_logback_impl",
+  "nodeDataArray": [
+    {
+      "key": "base_lib.ee.cone.c4actor_logback_impl",
+      "color": "#03A9F4",
+      "loc": "0 0"
+    },
+    {
+      "key": "ch.qos.logback:logback-classic:1.2.3",
+      "color": "#EF5350",
+      "loc": "300.0 0.0"
+    },
+    {
+      "key": "base_lib.ee.cone.c4actor",
+      "color": "#03A9F4",
+      "loc": "-300.0 2.4492935982947064E-14"
+    },
+    {
+      "key": "asdasd",
+      "color": "#EF5350",
+      "loc": "-3 -171"
+    }
+  ],
+  "linkDataArray": [
+    {
+      "from": "ch.qos.logback:logback-classic:1.2.3",
+      "to": "base_lib.ee.cone.c4actor_logback_impl"
+    },
+    {
+      "from": "base_lib.ee.cone.c4actor",
+      "to": "base_lib.ee.cone.c4actor_logback_impl"
+    },
+    {
+      "from": "asdasd",
+      "to": "base_lib.ee.cone.c4actor_logback_impl"
+    }
+  ]
+}
